@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shreeram0912
 - 👀 I’m interested in data analysis and visualization
-- - 🌱 I’m currently learning Power BI, data modeling, and building interactive dashboards
+- - 🌱 I’m currently learning Qliksense, Python, R Language, Data Visualization, Power BI, data modeling, and building interactive dashboards
 - 💞️ I’m looking to collaborate on data-driven projects
 - 📫 How to reach me contact through this profile or via email
 - 😄 Pronouns: He/Him

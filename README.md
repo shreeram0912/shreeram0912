@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science & data analytics
 - 👋 Skills: Python, Data Visualization, SQL, Power BI, Advance Excel, Tableau, data modeling and building interactive dashboards
 - ⚡ Other Skills: Amazon web services, github, Microsoft Office, Artificial Intelligence, Data Science.
-- 🌱 I’m currently learning , QLik Sense & Machine learning
+- 🌱 I’m currently learning , Qlik Sense & Machine learning
 - 💞️ I’m looking to collaborate on data-driven projects
 - 📫 How to reach me contact through this profile or via email
 - 😄 Pronouns: He/Him

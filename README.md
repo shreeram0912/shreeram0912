@@ -1,8 +1,8 @@
 - 👋 Hello World, I’m @shreeram0912
 - 👀 I’m interested in data science & data analytics
-- 👋 Skills: Python, Data Visualization, SQL, Power BI, Advance Excel, Tableau, data modeling and building interactive dashboards
-- ⚡ Other Skills: Amazon web services, github, Microsoft Office, Artificial Intelligence, Data Science.
-- 🌱 I’m currently learning , Qlik Sense & Machine learning
+- 👋 Skills: Python, Pyspark, Spark(SQL), Data Visualization, SQL, Microsoft Power BI, Microsoft Fabric, Databricks, Microsoft Excel, Tableau, Data Warehousing, Power Query, Azure Data Fundamental, data modeling                 and building interactive dashboards, reports, KPIs.
+- ⚡ Other Skills: Amazon web services, github, Microsoft Office, Artificial Intelligence, Data Science, Machine learning.
+- 🌱 I’m currently learning, Data Engineering 
 - 💞️ I’m looking to collaborate on data-driven projects
 - 📫 How to reach me contact through this profile or via email
 - 😄 Pronouns: He/Him
